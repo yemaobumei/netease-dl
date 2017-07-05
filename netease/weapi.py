@@ -25,6 +25,7 @@ from .exceptions import (
     SearchNotFound, SongNotAvailable, GetRequestIllegal, PostRequestIllegal)
 from .models import Song, Album, Artist, Playlist, User
 
+from .helper import strQ2B
 
 LOG = get_logger(__name__)
 
@@ -346,7 +347,7 @@ class Crawler(object):
 
         if not os.path.exists(folder):
             os.makedirs(folder)
-        song_name=song_name.replace(' ','')#歌曲名字去空格
+        song_name=strQ2B(song_name).replace(' ','')#歌曲名字去空格
         fpath = os.path.join(folder, song_name+'.mp3')
 
         if not os.path.exists(fpath):
