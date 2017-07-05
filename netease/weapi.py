@@ -128,7 +128,7 @@ class Crawler(object):
 
         if result['result']['songCount'] <= 0:
             LOG.warning('Song %s not existed!', song_name)
-            raise SearchNotFound('Song {} not existed.'.format(song_name))
+            raise SearchNotFound('歌曲 {} 不存在.'.format(song_name))
         else:
             songs = result['result']['songs']
             if quiet:
@@ -313,7 +313,7 @@ class Crawler(object):
                 'Song %s is not available due to copyright issue. => %s',
                 song_id, result)
             raise SongNotAvailable(
-                'Song {} is not available due to copyright issue.'.format(song_id))
+                '歌曲 {} 由于版权问题无法播放.'.format(song_id))
         else:
             return song_url
 
@@ -346,13 +346,14 @@ class Crawler(object):
 
         if not os.path.exists(folder):
             os.makedirs(folder)
+        song_name=song_name.replace(' ','')#歌曲名字去空格
         fpath = os.path.join(folder, song_name+'.mp3')
 
         if not os.path.exists(fpath):
             resp = self.download_session.get(
                 song_url, timeout=self.timeout, stream=True)
             length = int(resp.headers.get('content-length'))
-            label = 'Downlaoding {} {}kb'.format(song_name, int(length/1024))
+            label = '{} 已下载 '.format(song_name)
 
             with click.progressbar(length=length, label=label) as progressbar:
                 with open(fpath, 'wb') as song_file:
