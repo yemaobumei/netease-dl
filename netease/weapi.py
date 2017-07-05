@@ -347,14 +347,14 @@ class Crawler(object):
 
         if not os.path.exists(folder):
             os.makedirs(folder)
-        song_name=strQ2B(song_name).replace(' ','').replace('(','').replace(')','')#歌曲名字去空格
+        song_name=strQ2B(song_name).replace(' ','')#.replace('(','').replace(')','')
         fpath = os.path.join(folder, song_name+'.mp3')
 
         if not os.path.exists(fpath):
             resp = self.download_session.get(
                 song_url, timeout=self.timeout, stream=True)
             length = int(resp.headers.get('content-length'))
-            label = '{} 已下载 '.format(song_name)
+            label = '歌曲 {} 已下载 '.format(song_name)
 
             with click.progressbar(length=length, label=label) as progressbar:
                 with open(fpath, 'wb') as song_file:
