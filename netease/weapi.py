@@ -347,7 +347,7 @@ class Crawler(object):
 
         if not os.path.exists(folder):
             os.makedirs(folder)
-        song_name=strQ2B(song_name).replace(' ','')#歌曲名字去空格
+        song_name=strQ2B(song_name).replace(' ','').replace('(','-').replace(')','')#歌曲名字去空格
         fpath = os.path.join(folder, song_name+'.mp3')
 
         if not os.path.exists(fpath):
