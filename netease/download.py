@@ -76,7 +76,7 @@ class NetEase(object):
                 self.crawler.login()
         except RequestException:
             click.echo('Maybe password error, please try again.')
-    @login
+    # @login
     def download_song_by_search(self, song_name):
         """Download a song by its name.
 
@@ -89,7 +89,7 @@ class NetEase(object):
             click.echo(exception)
         else:
             self.download_song_by_id(song.song_id, song.song_name, self.folder)
-    @login
+    # @login
     def download_song_by_id(self, song_id, song_name, folder='.'):
         """Download a song by id and save it to disk.
 
@@ -108,11 +108,11 @@ class NetEase(object):
             # song_name = song_name.replace('/', '')
             # song_name = song_name.replace('.', '')
             # song_name = re.sub(r'[\#\-;]')
-            song_name = re.sub(r"[;\-\s\!\/_,$%^*(+\"\']+|[+——！，。？、~@#￥%……&*（）]+", "O",song_name)
+            song_name = re.sub(r"[;\-\s\!\/_,$%^*(+\"\']+|[+——！，。？、~@#￥%……&*（）]+", " ",song_name)
             self.crawler.get_song_by_url(url, song_name, folder, lyric_info)
         except RequestException as exception:
             click.echo(exception)
-    @login
+    # @login
     def download_album_by_search(self, album_name):
         """Download a album by its name.
 
@@ -125,7 +125,7 @@ class NetEase(object):
             click.echo(exception)
         else:
             self.download_album_by_id(album.album_id, album.album_name)
-    @login
+    # @login
     @timeit
     def download_album_by_id(self, album_id, album_name):
         """Download a album by its name.
@@ -143,7 +143,7 @@ class NetEase(object):
             folder = os.path.join(self.folder, album_name)
             for song in songs:
                 self.download_song_by_id(song.song_id, song.song_name, folder)
-    @login
+    # @login
     def download_artist_by_search(self, artist_name):
         """Download a artist's top50 songs by his/her name.
 
@@ -156,7 +156,7 @@ class NetEase(object):
             click.echo(exception)
         else:
             self.download_artist_by_id(artist.artist_id, artist.artist_name)
-    @login
+    # @login
     @timeit
     def download_artist_by_id(self, artist_id, artist_name):
         """Download a artist's top50 songs by his/her id.
@@ -174,7 +174,7 @@ class NetEase(object):
             folder = os.path.join(self.folder, artist_name)
             for song in songs:
                 self.download_song_by_id(song.song_id, song.song_name, folder)
-    @login
+    # @login
     def download_playlist_by_search(self, playlist_name):
         """Download a playlist's songs by its name.
 
@@ -189,7 +189,7 @@ class NetEase(object):
         else:
             self.download_playlist_by_id(
                 playlist.playlist_id, playlist.playlist_name)
-    @login
+    # @login
     @timeit
     def download_playlist_by_id(self, playlist_id, playlist_name):
         """Download a playlist's songs by its id.
@@ -207,7 +207,7 @@ class NetEase(object):
             folder = os.path.join(self.folder, playlist_name)
             for song in songs:
                 self.download_song_by_id(song.song_id, song.song_name, folder)
-    @login
+    # @login
     def download_user_playlists_by_search(self, user_name):
         """Download user's playlists by his/her name.
 
@@ -220,7 +220,7 @@ class NetEase(object):
             click.echo(exception)
         else:
             self.download_user_playlists_by_id(user.user_id)
-    @login
+    # @login
     def download_user_playlists_by_id(self, user_id):
         """Download user's playlists by his/her id.
 
