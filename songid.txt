@@ -1,0 +1,278 @@
+<body id="auto-id-Xu9X8qte7f3hpELq" class="auto-1538285467578-parent">
+<div data-module="discover" data-sub="other" id="g_top" class="m-top">&nbsp;</div>
+<div id="g_nav" class="m-subnav">&nbsp;</div>
+<script>
+try{
+top.matchNav("discover", "other");
+}catch(e){
+}
+</script>
+<div class="g-bd4 f-cb">
+<div class="g-mn4">
+<div class="g-mn4c">
+<div class="g-wrap6">
+<div class="m-lycifo">
+<div class="f-cb">
+<div class="cvrwrap f-cb f-pr">
+<div class="u-cover u-cover-6 f-fl">
+<img src="http://p2.music.126.net/mU-cKIp8HvqVUSA0gzY2Dg==/903798558076025.jpg?param=130y130" class="j-img" data-src="http://p2.music.126.net/mU-cKIp8HvqVUSA0gzY2Dg==/903798558076025.jpg">
+<span class="msk f-alpha"></span>
+</div>
+<div class="out s-fc3">
+<i class="u-icn u-icn-95 f-fl"></i>
+<a data-action="outchain" data-rt="" data-href="/outchain/2/2080322/" class="des s-fc7">生成外链播放器</a>
+</div>
+</div>
+<div class="cnt">
+<div class="hd">
+<i class="lab u-icn u-icn-37"></i>
+<div class="tit">
+<em class="f-ff2">The Rose</em>
+<a title="播放mv" href="/mv?id=409016"><i class="icn u-icn u-icn-2"></i></a>
+</div>
+</div>
+<p class="des s-fc4">歌手：<span title="Westlife"><a class="s-fc7" href="/artist?id=45839">Westlife</a></span></p>
+<p class="des s-fc4">所属专辑：<a href="/album?id=209556" class="s-fc7">The Rose</a></p>
+<div class="m-info">
+<div id="content-operation" class="btns f-cb" data-rid="2080322" data-type="18">
+<a data-res-action="play" data-res-id="2080322" data-res-type="18" href="javascript:;" class="u-btn2 u-btn2-2 u-btni-addply f-fl" hidefocus="true" title="播放"><i><em class="ply"></em>播放</i></a>
+<a data-res-action="addto" data-res-id="2080322" data-res-type="18" href="javascript:;" class="u-btni u-btni-add" hidefocus="true" title="添加到播放列表"></a>
+<a data-res-id="2080322" data-res-type="18" data-count="-1" data-fee="8" data-payed="0" data-pl="128000" data-dl="0" data-cp="1" data-toast="false" data-st="0" data-res-action="fav" class="u-btni u-btni-fav " href="javascript:;">
+<i>收藏</i>
+</a>
+<a data-res-id="2080322" data-res-type="18" data-count="-1" data-res-action="share" data-res-name="The Rose" data-res-author="Westlife" data-res-authors="" data-res-pic="" class="u-btni u-btni-share " href="javascript:;"><i>分享</i></a>
+<a data-res-id="2080322" data-res-type="18" data-res-action="download" class="u-btni u-btni-dl " href="javascript:;"><i>下载</i></a>
+<a data-res-action="comment" href="javascript:;" class="u-btni u-btni-cmmt "><i>(<span id="cnt_comment_count">5552</span>)</i></a>
+</div>
+</div>
+<div id="lyric-content" class="bd bd-open f-brk f-ib" data-song-id="2080322" data-third-copy="false" ,="" copy-from="">Some say love it is a river<br>有人说，爱是那河流<br>That drowns the tender reed.<br>河中沉溺着柔软的芦苇<br>Some say love it is a razor<br>有人说，爱是那刀锋<br>That leaves your soul to bleed.<br>让你的灵魂四分五裂<br>Some say love it is a hunger<br>有人说，爱是种饥渴<br>An endless, aching need<br>燃烧起无尽疼痛的欲望<br><div id="flag_more" class="f-hide">I say love it is a flower,<br>而我说，爱是绽放的花朵<br>And you it's only seed.<br>而你，就是那唯一的种子<br>It's the heart afraid of breaking<br>若一颗心惧怕破碎<br>That never learns to dance<br>就无法学会翩翩起舞<br>It's the dream afraid of waking<br>若一个梦境惧怕醒来<br>That never takes the chance<br>就无法抓住来临的机遇<br>It's the one who won't be taken,<br>若一个人得不到关爱<br>Who cannot seem to give<br>他也不会给人关爱<br>And the soul afraid of dying<br>若一具灵魂惧怕死亡<br>That never learns to live.<br>他就无法学会生存<br>When the night has been too lonely<br>当夜晚显得寂寞不堪<br>And the road has been too long.<br>去路显得无尽漫长<br>And you think that love is only<br>你会觉得<br>For the lucky and the strong.<br>爱只眷顾那些幸运且矢志不渝的人<br>Just remember in the winter<br>而相爱的人只需铭记，纵使冬日里<br>Far beneath the bitter snow<br>在寒冷刺骨的雪地下面<br>Lies the seed that with the sun's love,<br>只要存在沐浴阳光之爱的种子<br>In the spring, becomes the rose.<br>当春天到来，就会幻化成一朵玫瑰<br><br></div><div class="crl"><a id="flag_ctrl" href="javascript:void(0)" class="s-fc7">展开<i class="u-icn u-icn-69"></i></a></div></div>
+</div>
+</div>
+<div id="user-operation" class="lrc-user"><p><a class="f-tdu s-fc4" data-action="loginlink" data-href="/lyric/up?id=2080322">上传歌词</a>&nbsp;<a class="f-tdu s-fc4" data-action="loginlink" data-href="/lyric/translrc?id=2080322">翻译歌词</a>&nbsp;<a class="f-tdu s-fc4" href="/lyric/report?id=2080322">报错</a></p><p class="s-fc3">&nbsp;&nbsp;&nbsp;&nbsp;贡献翻译：<a class="f-tdu s-fc7" href="/user/home?id=41911158">如墨入地</a></p><!--#if--></div>
+</div>
+<div class="n-cmt" id="comment-box" data-tid="R_SO_4_2080322" data-count="0"><div id="auto-id-Etd76yE7gG4cy2Zu"><div class="u-title u-title-1">
+<h3><span class="f-ff2">评论</span></h3><span class="sub s-fc3">共<span class="j-flag">5552</span>条评论</span>
+</div>
+<div class="m-cmmt">
+<div class="iptarea">
+<div class="head"><img src="http://s4.music.126.net/style/web2/img/default/default_avatar.jpg?param=50y50"></div>
+<div class="j-flag"><div><div class="m-cmmtipt f-cb f-pr"><div class="u-txtwrap holder-parent f-pr" style="display: block;"><textarea class="u-txt area j-flag" data-type="" placeholder="评论" id="auto-id-DOvxZdvWrocrJLrp"></textarea></div><div class="btns f-cb f-pr"><i class="icn u-icn u-icn-36 j-flag" id="auto-id-B8fm0dIw4Oo320VT"></i><i class="icn u-icn u-icn-41 j-flag" id="auto-id-XTRDJ6IXKceJoemR"></i><a href="javascript:void(0)" class="btn u-btn u-btn-1 j-flag" id="auto-id-rVMv1HCpb4JVoDel">评论</a><span class="zs s-fc4 j-flag">140</span></div><div class="corr u-arr"><em class="arrline">◆</em><span class="arrclr">◆</span></div></div></div></div>
+</div>
+<div class="cmmts j-flag" id="auto-id-pfbsOnN5NVQJ8tLx"><h3 class="u-hd4">精彩评论</h3> <div id="79792221538285467574" class="itm" data-id="7979222"><div class="head"><a href="/user/home?id=33631139"><img src="http://p2.music.126.net/4x4auEbeiSmtujpkEIewEQ==/3294136837871930.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=33631139" class="s-fc7">吹吹风大声笑</a>：那年夏天，我第一次恋爱了。第二年夏天，我第一次失恋了。第三年，第四年，我依然不能忘怀，活在虚无的过去，永远消失的过去。2015即将到来，难道我还要沉沦到第五年吗？不能！现在，和2014说再见，和他说再见，和痛苦挣扎的过去说再见！明天开始，做最好的自己，最快乐的自己，重新期待爱情吧</div></div><div class="rp"><div class="time s-fc4">2014年12月31日</div><a data-id="7979222" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (6072)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="7979222" data-type="reply">回复</a></div></div></div><div id="58073221538285467574" class="itm" data-id="5807322"><div class="head"><a href="/user/home?id=41542211"><img src="http://p2.music.126.net/4QHmisTrlE983YNaTn04Jw==/18787355183812327.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=41542211" class="s-fc7">ypyww</a>：刚喜欢上，就解散了，没赶上他们的时代太遗憾</div></div><div class="rp"><div class="time s-fc4">2014年11月14日</div><a data-id="5807322" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (5315)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="5807322" data-type="reply">回复</a></div></div></div><div id="93438551538285467574" class="itm" data-id="9343855"><div class="head"><a href="/user/home?id=19401046"><img src="http://p2.music.126.net/axocNkLcNgxteY1qvXnbqw==/7758154045773624.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=19401046" class="s-fc7">谷凉知秋</a>：西城从男孩变成大叔，我也从当年喜欢西城的女孩变成现在邻居家小孩称呼的阿姨<img src="http://s1.music.126.net/style/web2/emt/emoji_96.png">，明明我还没大学毕业。。。或许时间可以带走很多东西，但带不走歌曲中的感动。</div></div><div class="rp"><div class="time s-fc4">2015年1月24日</div><a data-id="9343855" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (3226)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="9343855" data-type="reply">回复</a></div></div></div><div id="67578241538285467574" class="itm" data-id="6757824"><div class="head"><a href="/user/home?id=41795238"><img src="http://p2.music.126.net/lQleO6B-2_KoPfw66dtMxg==/7899991045592718.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=41795238" class="s-fc7">江枫渔火桥夜泊</a>：为什么手岛葵那边就有神一样的歌词！西城不服！</div></div><div class="rp"><div class="time s-fc4">2014年12月6日</div><a data-id="6757824" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (2691)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="6757824" data-type="reply">回复</a></div></div></div><div id="151255361538285467574" class="itm" data-id="15125536"><div class="head"><a href="/user/home?id=60242783"><img src="http://p2.music.126.net/Cfzqw6-M2VI5S3z_0kAFVw==/7960464185614018.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=60242783" class="s-fc7">那个用了八年的网名</a>：我今年23岁。初中的时候暗恋过一个女孩，至今没喜欢过任何人。在我心里爱是我的信仰，不可侵犯，不随意踏足。一旦决定我定要长久。</div></div><div class="rp"><div class="time s-fc4">2015年4月14日</div><a data-id="15125536" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (2671)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="15125536" data-type="reply">回复</a></div></div></div><div id="118423601538285467574" class="itm" data-id="11842360"><div class="head"><a href="/user/home?id=41829848"><img src="http://p2.music.126.net/bTIoFKFaE1-JQpgN3OynGg==/1986817511391283.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=41829848" class="s-fc7">帐号已注销</a>：婚礼上不放这首歌都不想结婚了</div></div><div class="rp"><div class="time s-fc4">2015年3月4日</div><a data-id="11842360" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (2050)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="11842360" data-type="reply">回复</a></div></div></div><div id="482588381538285467574" class="itm" data-id="48258838"><div class="head"><a href="/user/home?id=59816875"><img src="http://p2.music.126.net/yE_KQ8zerOY8njKWc7EsQA==/18884112207359495.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=59816875" class="s-fc7">你看不见我看不见我呀</a>：湖人的比赛还未结束，我想我已经知道结果了。九年前湖人对猛龙，科比砍下的81分，时至今日却变成了最心酸的回忆。这首背景音乐，很戳累点，借用卢梭《忏悔录》里引用罗马诗人的那句话:发自肺腑，深入肌肤。</div></div><div class="rp"><div class="time s-fc4">2015年11月21日</div><a data-id="48258838" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (1173)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="48258838" data-type="reply">回复</a></div></div></div><div id="644272661538285467574" class="itm" data-id="64427266"><div class="head"><a href="/user/home?id=116839654"><img src="http://p2.music.126.net/ATVE6qKo44jOMkpTiXkLjA==/3411784583391682.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=116839654" class="s-fc7">清溪下渝州</a>：有人说人生是一条坐标轴，人所创造的历史是在坐标轴上波动的曲线。喜欢或者不喜欢，留下或者离开，五年前和五年后，上下起伏，回到原点。一直停留在线下三度的感情，没有开始，没有结束。-----《线下三度》</div></div><div class="rp"><div class="time s-fc4">2016年1月23日</div><a data-id="64427266" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (1011)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="64427266" data-type="reply">回复</a></div></div></div><div id="83508821538285467574" class="itm" data-id="8350882"><div class="head"><a href="/user/home?id=13902238"><img src="http://p2.music.126.net/QbJ9Roo5ceTTr2dHpglNJg==/109951163266296015.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=13902238" class="s-fc7">小马一直在过河</a>：这版的似乎注重节奏上的美感&nbsp;手嶌葵的好像是轻声的告诉你什么&nbsp;安慰人心&nbsp;各有千秋</div></div><div class="rp"><div class="time s-fc4">2015年1月7日</div><a data-id="8350882" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (822)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="8350882" data-type="reply">回复</a></div></div></div><div id="608622201538285467574" class="itm" data-id="60862220"><div class="head"><a href="/user/home?id=120272868"><img src="http://p2.music.126.net/zCKMdQWSgXoNhJfcjyrA7Q==/18733479116194003.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=120272868" class="s-fc7">关宏峰</a>：“没有了我，弗朗西斯总能继续快乐的生活下去的”亚瑟曾经这么说过。但是他走后，弗朗西斯再也没有开心的笑过，再也没有说过我爱你。</div></div><div class="rp"><div class="time s-fc4">2016年1月11日</div><a data-id="60862220" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (804)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="60862220" data-type="reply">回复</a></div></div></div><div id="51582251538285467574" class="itm" data-id="5158225"><div class="head"><a href="/user/home?id=6015455"><img src="http://p2.music.126.net/ebxW3tqoziJJa3U_pwgByA==/5765838976119265.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=6015455" class="s-fc7">爱尼狂乐</a>：这首歌，真的不能看着歌词，静静听！对于，爱情的憧憬与恐惧都随之而来，像一习习浪花，渐渐，慢慢变得汹涌，打湿一切，思绪如潮！</div></div><div class="rp"><div class="time s-fc4">2014年10月25日</div><a data-id="5158225" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (780)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="5158225" data-type="reply">回复</a></div></div></div><div id="633656651538285467574" class="itm" data-id="63365665"><div class="head"><a href="/user/home?id=55780618"><img src="http://p2.music.126.net/RA9sOC_IvNTmAq37oAxc7w==/109951162970993945.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=55780618" class="s-fc7">这名字真好</a>：如果我们不是错到了最后，中间即使走对了一步也好，就会有五年，十年，在你有需要的时候陪着你，补偿你。&nbsp;——《线下三度》<br>ps：只有我一个人是从线下三度过来的嘛<img src="http://s1.music.126.net/style/web2/emt/emoji_357.png">，dover组大法好，aph一生推</div></div><div class="rp"><div class="time s-fc4">2016年1月20日</div><a data-id="63365665" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (687)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="63365665" data-type="reply">回复</a></div></div></div><div id="603937951538285467574" class="itm" data-id="60393795"><div class="head"><a href="/user/home?id=96461570"><img src="http://p2.music.126.net/jkyyYD8NmU00NOmsJ8I6hw==/109951163451933755.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=96461570" class="s-fc7">束诀_official</a>：他只是弗朗西斯的甜點，而弗朗西斯卻是他的紅茶。</div></div><div class="rp"><div class="time s-fc4">2016年1月9日</div><a data-id="60393795" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (600)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="60393795" data-type="reply">回复</a></div></div></div><div id="593027981538285467574" class="itm" data-id="59302798"><div class="head"><a href="/user/home?id=120272868"><img src="http://p2.music.126.net/zCKMdQWSgXoNhJfcjyrA7Q==/18733479116194003.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=120272868" class="s-fc7">关宏峰</a>：主唱A和鼓手B可真有默契。</div></div><div class="rp"><div class="time s-fc4">2016年1月5日</div><a data-id="59302798" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (522)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="59302798" data-type="reply">回复</a></div></div></div><div id="10788031171538285467574" class="itm" data-id="1078803117"><div class="head"><a href="/user/home?id=506030518"><img src="http://p2.music.126.net/rMUPRAbx7nCPl_BueYh4QA==/109951163386232213.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=506030518" class="s-fc7">VivaLaVida_Ray</a><img src="//p1.music.126.net/0iFYdNRbeKXnmhgIHFYVNg==/109951163309832497.png" class="brand-tag brand-vip">：当初参加院十佳歌手，我选了这首歌，可是偏偏把握不住它的深情。后来，告白也失败。它成了我听完最想哭的却又爱着的一首歌，可他却不再是我喜欢的那般模样了。我很开心，他拒绝了我</div></div><div class="rp"><div class="time s-fc4">4月8日 14:56</div><a data-id="1078803117" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (184)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1078803117" data-type="reply">回复</a></div></div></div><br><br><h3 class="u-hd4">最新评论(5552)</h3> <div id="12580931051538285467574" class="itm" data-id="1258093105"><div class="head"><a href="/user/home?id=1365455728"><img src="http://p2.music.126.net/3hfGipXMxnLmyo-UA8_G-Q==/109951163557256921.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=1365455728" class="s-fc7">静心1230789</a><img src="//p1.music.126.net/0iFYdNRbeKXnmhgIHFYVNg==/109951163309832497.png" class="brand-tag brand-vip">：传递</div></div><div class="rp"><div class="time s-fc4">9月28日 22:47</div><a data-id="1258093105" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1258093105" data-type="reply">回复</a></div></div></div><div id="12572961101538285467574" class="itm" data-id="1257296110"><div class="head"><a href="/user/home?id=347175030"><img src="http://p2.music.126.net/pZphkg5hN1fjHP7B3ltDQQ==/109951163384771494.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=347175030" class="s-fc7">Lovejksehun</a><img src="//p1.music.126.net/0iFYdNRbeKXnmhgIHFYVNg==/109951163309832497.png" class="brand-tag brand-vip">：开口跪系列<img src="http://s1.music.126.net/style/web2/emt/emoji_33.png"><img src="http://s1.music.126.net/style/web2/emt/emoji_33.png"><img src="http://s1.music.126.net/style/web2/emt/emoji_33.png"><br>声音太温柔</div></div><div class="rp"><div class="time s-fc4">9月27日 23:19</div><a data-id="1257296110" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1257296110" data-type="reply">回复</a></div></div></div><div id="12572789991538285467574" class="itm" data-id="1257278999"><div class="head"><a href="/user/home?id=99240310"><img src="http://p2.music.126.net/j9ujCnGmPLbvDK7vv-y34Q==/109951163371695346.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=99240310" class="s-fc7">peipeiyingyinghehe</a>：rose</div></div><div class="rp"><div class="time s-fc4">9月27日 22:56</div><a data-id="1257278999" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1257278999" data-type="reply">回复</a></div></div></div><div id="12569001521538285467574" class="itm" data-id="1256900152"><div class="head"><a href="/user/home?id=75661889"><img src="http://p2.music.126.net/L9boDMyJy1H8jkmgISoZjw==/109951162803667442.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=75661889" class="s-fc7">loveMichael</a>：初中第一次听到这首歌就决定将它用作我未来婚礼的音乐，后来陆陆续续又听到了很多适合婚礼的音乐，但是The&nbsp;Rose是唯一确定一定会出现在我婚礼上的歌👰🏻</div></div><div class="rp"><div class="time s-fc4">9月27日 14:01</div><a data-id="1256900152" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1256900152" data-type="reply">回复</a></div></div></div><div id="12567331591538285467574" class="itm" data-id="1256733159"><div class="head"><a href="/user/home?id=527875865"><img src="http://p2.music.126.net/ghGtYnjll39RaQls8OS5vQ==/109951163230085806.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=527875865" class="s-fc7">takuya也会喜欢栗子味</a>：你们要回来了，我真的真的很开心。</div></div><div class="rp"><div class="time s-fc4">9月27日 08:20</div><a data-id="1256733159" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (1)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1256733159" data-type="reply">回复</a></div></div></div><div id="12566068921538285467574" class="itm" data-id="1256606892"><div class="head"><a href="/user/home?id=472778632"><img src="http://p2.music.126.net/P6Uqjo-6xsN5bvwtnzlwIg==/109951163446775377.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=472778632" class="s-fc7">靳迷</a>：求回归</div></div><div class="rp"><div class="time s-fc4">9月26日 23:57</div><a data-id="1256606892" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1256606892" data-type="reply">回复</a></div></div></div><div id="12565570211538285467574" class="itm" data-id="1256557021"><div class="head"><a href="/user/home?id=299606841"><img src="http://p2.music.126.net/ouxvhg4REu9scHj7_OpfiQ==/18753270325287716.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=299606841" class="s-fc7">Ghff里</a>：我怎么感觉还是不大可能啊，好几年前就有人说今年重组</div></div><div class="que f-brk f-pr s-fc3"><span class="darr"><i class="bd">◆</i><i class="bg">◆</i></span>该评论已删除</div><div class="rp"><div class="time s-fc4">9月26日 23:17</div><a data-id="1256557021" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1256557021" data-type="reply">回复</a></div></div></div><div id="12564881241538285467574" class="itm" data-id="1256488124"><div class="head"><a href="/user/home?id=406618357"><img src="http://p2.music.126.net/WKr1uLwVNdYyMv3qUCOwUA==/109951163437270556.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=406618357" class="s-fc7">L大银银</a>：2018已经过了大半年了，快2019了，作为陌生人的关心，你现在怎么样了？应该很幸福吧，得到了想要的爱情了吗？</div></div><div class="que f-brk f-pr s-fc3"><span class="darr"><i class="bd">◆</i><i class="bg">◆</i></span><a class="s-fc7" href="/user/home?id=33631139">吹吹风大声笑</a>：那年夏天，我第一次恋爱了。第二年夏天，我第一次失恋了。第三年，第四年，我依然不能忘怀，活在虚无的过去，永远消失的过去。2015即将到来，难道我还要沉沦到第五年吗？不能！现在，和2014说再见，和他说再见，和痛苦挣扎的过去说再见！明天开始，做最好的自己，最快乐的自己，重新期待爱情吧</div><div class="rp"><div class="time s-fc4">9月26日 22:24</div><a data-id="1256488124" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (1)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1256488124" data-type="reply">回复</a></div></div></div><div id="12561640681538285467574" class="itm" data-id="1256164068"><div class="head"><a href="/user/home?id=358150580"><img src="http://p2.music.126.net/-lo0-g3SZPii8iWBeDuzdA==/109951162820099417.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=358150580" class="s-fc7">一只胖你</a>：更喜欢原版的歌词翻译🤗&nbsp;手嶌葵版翻译感觉有点&nbsp;华而不实...emmm</div></div><div class="rp"><div class="time s-fc4">9月26日 14:35</div><a data-id="1256164068" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1256164068" data-type="reply">回复</a></div></div></div><div id="12547536081538285467574" class="itm" data-id="1254753608"><div class="head"><a href="/user/home?id=1607060602"><img src="http://p2.music.126.net/tkKxpmf0zIlGBs6WcMiqXQ==/109951163563807811.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=1607060602" class="s-fc7">nicole2116</a><img src="//p1.music.126.net/0iFYdNRbeKXnmhgIHFYVNg==/109951163309832497.png" class="brand-tag brand-vip">：The&nbsp;Rose，是一首鼓勵失落人，不要放棄信念和希望，持續努力，終將等到春天</div></div><div class="rp"><div class="time s-fc4">9月24日 19:41</div><a data-id="1254753608" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1254753608" data-type="reply">回复</a></div></div></div><div id="12546675821538285467574" class="itm" data-id="1254667582"><div class="head"><a href="/user/home?id=246165551"><img src="http://p2.music.126.net/BCPM05vPM8l8jI72bbsPfw==/19056735532637744.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=246165551" class="s-fc7">严好困</a>：重组了！貌似还有还有黄老板帮写歌</div></div><div class="rp"><div class="time s-fc4">9月24日 18:03</div><a data-id="1254667582" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (1)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1254667582" data-type="reply">回复</a></div></div></div><div id="12545929401538285467574" class="itm" data-id="1254592940"><div class="head"><a href="/user/home?id=609245242"><img src="http://p2.music.126.net/FSCzuLxNG-gS-ENLxa5Cyw==/19038043835340256.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=609245242" class="s-fc7">lll123RR</a>：真的吗?</div></div><div class="que f-brk f-pr s-fc3"><span class="darr"><i class="bd">◆</i><i class="bg">◆</i></span><a class="s-fc7" href="/user/home?id=83991631">Land-fu</a>：他们重组了！！！！！西城重组了！！！</div><div class="rp"><div class="time s-fc4">9月24日 16:58</div><a data-id="1254592940" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1254592940" data-type="reply">回复</a></div></div></div><div id="12546075511538285467574" class="itm" data-id="1254607551"><div class="head"><a href="/user/home?id=83991631"><img src="http://p2.music.126.net/GHNEdDTcPWOH1FYflWR7aQ==/109951163535841462.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=83991631" class="s-fc7">Land-fu</a>：他们重组了！！！！！西城重组了！！！</div></div><div class="rp"><div class="time s-fc4">9月24日 16:56</div><a data-id="1254607551" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (3)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1254607551" data-type="reply">回复</a></div></div></div><div id="12543104781538285467574" class="itm" data-id="1254310478"><div class="head"><a href="/user/home?id=351072258"><img src="http://p2.music.126.net/sf8i8dtXkw5vbyLIPVQYow==/109951163351622484.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=351072258" class="s-fc7">Eminem不吃火锅底料</a>：这个版本更震撼一点</div></div><div class="rp"><div class="time s-fc4">9月24日 12:26</div><a data-id="1254310478" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (1)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1254310478" data-type="reply">回复</a></div></div></div><div id="12536048611538285467574" class="itm" data-id="1253604861"><div class="head"><a href="/user/home?id=336880784"><img src="http://p2.music.126.net/Pr5H9xHlqZTRUjeYwx3FQg==/109951163420420431.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=336880784" class="s-fc7">无趣弟弟的哥哥</a>：希望能给喜欢的人唱这首歌，然后告诉他，<br>我一直在等你，尽管不知道你会不会来，但我还是等到你了</div></div><div class="rp"><div class="time s-fc4">9月23日 19:36</div><a data-id="1253604861" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1253604861" data-type="reply">回复</a></div></div></div><div id="12529802031538285467574" class="itm" data-id="1252980203"><div class="head"><a href="/user/home?id=1596462889"><img src="http://p2.music.126.net/PRPwTa_nfryukpMfmntFsw==/109951163562586577.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=1596462889" class="s-fc7">小鬼不灵儿</a>：很喜欢这首歌</div></div><div class="rp"><div class="time s-fc4">9月23日 08:12</div><a data-id="1252980203" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1252980203" data-type="reply">回复</a></div></div></div><div id="12526317111538285467574" class="itm" data-id="1252631711"><div class="head"><a href="/user/home?id=135477"><img src="http://p2.music.126.net/uV3E67wHzvPeoLLoBHozog==/109951163556137582.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=135477" class="s-fc7">东方孤月</a>：爱似玫瑰；<br>赠人玫瑰，手留余香；<br>心有爱意，自然滋润。<br>她今天分享了这首歌，❤，爱你，🌹……</div></div><div class="rp"><div class="time s-fc4">9月22日 21:29</div><a data-id="1252631711" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (4)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1252631711" data-type="reply">回复</a></div></div></div><div id="12518140541538285467574" class="itm" data-id="1251814054"><div class="head"><a href="/user/home?id=510168003"><img src="http://p2.music.126.net/FkoXO2JiS7FS43XGk0rT4Q==/18590542604636903.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=510168003" class="s-fc7">追忆匆匆岁月</a>：风城玫瑰，永不凋零</div></div><div class="rp"><div class="time s-fc4">9月21日 23:24</div><a data-id="1251814054" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (1)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1251814054" data-type="reply">回复</a></div></div></div><div id="12502717991538285467574" class="itm" data-id="1250271799"><div class="head"><a href="/user/home?id=341882090"><img src="http://p2.music.126.net/6UJ46Ttz3ASlGVyPgZpd5w==/18819241021543469.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=341882090" class="s-fc7">尘星T_T</a>：听到第一次就喜欢上这首歌了</div></div><div class="rp"><div class="time s-fc4">9月20日 07:18</div><a data-id="1250271799" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i> (3)</a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1250271799" data-type="reply">回复</a></div></div></div><div id="12501493121538285467574" class="itm" data-id="1250149312"><div class="head"><a href="/user/home?id=312002160"><img src="http://p2.music.126.net/2e2xqM5cB8G7vKHarNkidw==/109951163103960060.jpg?param=50y50"></a></div><div class="cntwrap"><div class=""><div class="cnt f-brk"><a href="/user/home?id=312002160" class="s-fc7">黑羽蝌蚪</a>：葵酱的英文在日本人里算好的了，她的英文歌曲也是葵式风格，无可替代<img src="http://s1.music.126.net/style/web2/emt/emoji_360.png"></div></div><div class="que f-brk f-pr s-fc3"><span class="darr"><i class="bd">◆</i><i class="bg">◆</i></span><a class="s-fc7" href="/user/home?id=284024369">渔者歌行</a>：葵姐歌曲的感情表达的很好，就是英文发音是重伤</div><div class="rp"><div class="time s-fc4">9月20日 00:20</div><a data-id="1250149312" data-type="like" href="javascript:void(0)"><i class="zan u-icn2 u-icn2-12"></i></a><span class="sep">|</span><a href="javascript:void(0)" class="s-fc3" data-id="1250149312" data-type="reply">回复</a></div></div></div></div>
+<div class="j-flag auto-1538285467575-parent"><div class="auto-1538285467575 u-page"><a href="#" class="zbtn zprv js-p-1538285467574 js-disabled" id="auto-id-tX981nlXJTNd7TFG">上一页</a><a href="#" class="zpgi zpg1 js-i-1538285467574 js-selected" id="auto-id-BhehisoGqysEHnc7">1</a><a href="#" class="zpgi zpg2 js-i-1538285467574" id="auto-id-Vu4r4leqgkJeZBQK">2</a><a href="#" class="zpgi zpg3 js-i-1538285467574" id="auto-id-C8hPzXNRSLsNyUfV">3</a><a href="#" class="zpgi zpg4 js-i-1538285467574" id="auto-id-r053gde6KZvdRmyA">4</a><a href="#" class="zpgi zpg5 js-i-1538285467574" id="auto-id-k83uFT6JFqcnBGCs">5</a><a href="#" class="zpgi zpg6 js-i-1538285467574" id="auto-id-vmUGmS0hL3A9AxpV">6</a><a href="#" class="zpgi zpg7 js-i-1538285467574" id="auto-id-HaLphpTpwF5y6xfd">7</a><a href="#" class="zpgi zpg8 js-i-1538285467574" id="auto-id-wthtIRNF6ri8zHE3">8</a><span class="zdot">...</span><a href="#" class="zpgi zpg9 js-i-1538285467574" id="auto-id-h4FKG6nrJPJ5JTvt">278</a><a href="#" class="zbtn znxt js-n-1538285467574" id="auto-id-ubQRJQbOxTBgkFGR">下一页</a></div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+<div class="g-sd4">
+<div class="g-wrap7">
+<div id="j-music-ad" class="m-sidead" data-has-music-ad="0">
+<div class="j-flag f-hide" id="auto-id-kKM2XQwBGx2SNkpt"></div>
+<div class="j-flag">
+<ins class="adsbydm" inner-prod="adbid" inner-width="200" inner-height="220" inner-src="https://iad.g.163.com/wa/ad?site=netease&amp;affiliate=music&amp;cat=detail&amp;type=logo200x220&amp;location=1" check-src="https://iad.g.163.com/wa/ad_check?site=netease&amp;affiliate=music&amp;cat=detail&amp;type=logo200x220&amp;location=1"><div><iframe id="4d1e68ef553540c7a10027b8f5dffcd3" width="200" height="220" prod="adbid" frameborder="0" scrolling="no" border="0" src="https://iad.g.163.com/wa/ad?site=netease&amp;affiliate=music&amp;cat=detail&amp;type=logo200x220&amp;location=1&amp;uuid=4d1e68ef553540c7a10027b8f5dffcd3"></iframe></div></ins>
+</div>
+</div>
+<h3 class="u-hd3">
+<span class="f-fl">包含这首歌的歌单</span>
+</h3>
+<ul class="m-rctlist f-cb">
+<li>
+<div class="cver u-cover u-cover-3">
+<a href="/playlist?id=2015397679" title="适合努力学习英语时听的歌曲" data-res-id="2015397679" data-res-type="13" data-res-action="log" data-res-data="recommendclick|0||song-playlist-recommend|2080322"><img src="http://p4.music.126.net/Ak2mqnmim2sFjxKAYnRb-A==/109951163085080176.jpg?param=50y50">
+</a>
+</div>
+<div class="info">
+<p class="f-thide">
+<a class="sname f-fs1 s-fc0" href="/playlist?id=2015397679" title="适合努力学习英语时听的歌曲" data-res-id="2015397679" data-res-type="13" data-res-action="log" data-res-data="recommendclick|0||song-playlist-recommend|2080322">适合努力学习英语时听的歌曲</a>
+</p>
+<p><span class="by s-fc4">by</span><a class="nm nm f-thide s-fc3" href="/user/home?id=74029445" title="xept">xept</a>
+<sup class="u-icn u-icn-84 "></sup>
+</p></div>
+</li>
+<li>
+<div class="cver u-cover u-cover-3">
+<a href="/playlist?id=25674022" title="100首经典英文老歌." data-res-id="25674022" data-res-type="13" data-res-action="log" data-res-data="recommendclick|1||song-playlist-recommend|2080322"><img src="http://p3.music.126.net/-JuQOcuDw9hp97aECx8G_w==/6632254138902295.jpg?param=50y50">
+</a>
+</div>
+<div class="info">
+<p class="f-thide">
+<a class="sname f-fs1 s-fc0" href="/playlist?id=25674022" title="100首经典英文老歌." data-res-id="25674022" data-res-type="13" data-res-action="log" data-res-data="recommendclick|1||song-playlist-recommend|2080322">100首经典英文老歌.</a>
+</p>
+<p><span class="by s-fc4">by</span><a class="nm nm f-thide s-fc3" href="/user/home?id=613323" title="音乐分享达人">音乐分享达人</a>
+<sup class="u-icn u-icn-84 "></sup>
+</p></div>
+</li>
+<li>
+<div class="cver u-cover u-cover-3">
+<a href="/playlist?id=837456" title="听一句就会喜欢上的英文歌" data-res-id="837456" data-res-type="13" data-res-action="log" data-res-data="recommendclick|2||song-playlist-recommend|2080322"><img src="http://p4.music.126.net/4VASY7gX3rXv4ZNycMtaag==/3114916441497858.jpg?param=50y50">
+</a>
+</div>
+<div class="info">
+<p class="f-thide">
+<a class="sname f-fs1 s-fc0" href="/playlist?id=837456" title="听一句就会喜欢上的英文歌" data-res-id="837456" data-res-type="13" data-res-action="log" data-res-data="recommendclick|2||song-playlist-recommend|2080322">听一句就会喜欢上的英文歌</a>
+</p>
+<p><span class="by s-fc4">by</span><a class="nm nm f-thide s-fc3" href="/user/home?id=60024" title="山北大洋">山北大洋</a>
+<sup class="u-icn u-icn-84 "></sup>
+</p></div>
+</li>
+</ul>
+<h3 class="u-hd3">
+<span class="f-fl">相似歌曲</span>
+</h3>
+<ul class="m-sglist f-cb">
+<li>
+</li><li class="f-cb">
+<div class="txt">
+<div class="f-thide">
+<a href="/song?id=2081313" title="Swear It Again" class="s-fc1" data-res-id="2081313" data-res-type="18" data-res-action="log" data-res-data="recommendclick|0||song-song-recommend|2080322">Swear It Again</a>
+</div>
+<div class="f-thide s-fc4"><span title="Westlife"><a class="s-fc4" href="/artist?id=45839">Westlife</a></span></div>
+</div>
+<div class="opr f-cb">
+<a data-res-action="play" data-res-id="2081313" data-res-type="18" class="play" href="javascript:;"></a>
+<a data-res-action="addto" data-res-id="2081313" data-res-type="18" class="add" href="javascript:;"></a>
+</div>
+</li>
+
+<li>
+</li><li class="f-cb">
+<div class="txt">
+<div class="f-thide">
+<a href="/song?id=1697553" title="The Girl Is Mine" class="s-fc1" data-res-id="1697553" data-res-type="18" data-res-action="log" data-res-data="recommendclick|1||song-song-recommend|2080322">The Girl Is Mine</a>
+</div>
+<div class="f-thide s-fc4"><span title="Paul McCartney/Michael Jackson"><a class="s-fc4" href="/artist?id=41135">Paul McCartney</a>/<a class="s-fc4" href="/artist?id=38853">Michael Jackson</a></span></div>
+</div>
+<div class="opr f-cb">
+<a data-res-action="play" data-res-id="1697553" data-res-type="18" class="play" href="javascript:;"></a>
+<a data-res-action="addto" data-res-id="1697553" data-res-type="18" class="add" href="javascript:;"></a>
+</div>
+</li>
+
+<li>
+</li><li class="f-cb">
+<div class="txt">
+<div class="f-thide">
+<a href="/song?id=21669719" title="Should It Matter" class="s-fc1" data-res-id="21669719" data-res-type="18" data-res-action="log" data-res-data="recommendclick|2||song-song-recommend|2080322">Should It Matter</a>
+</div>
+<div class="f-thide s-fc4"><span title="Sissel"><a class="s-fc4" href="/artist?id=74615">Sissel</a></span></div>
+</div>
+<div class="opr f-cb">
+<a data-res-action="play" data-res-id="21669719" data-res-type="18" class="play" href="javascript:;"></a>
+<a data-res-action="addto" data-res-id="21669719" data-res-type="18" class="add" href="javascript:;"></a>
+</div>
+</li>
+
+<li>
+</li><li class="f-cb">
+<div class="txt">
+<div class="f-thide">
+<a href="/song?id=1698413" title="Heal the World" class="s-fc1" data-res-id="1698413" data-res-type="18" data-res-action="log" data-res-data="recommendclick|3||song-song-recommend|2080322">Heal the World</a>
+</div>
+<div class="f-thide s-fc4"><span title="Michael Jackson"><a class="s-fc4" href="/artist?id=38853">Michael Jackson</a></span></div>
+</div>
+<div class="opr f-cb">
+<a data-res-action="play" data-res-id="1698413" data-res-type="18" class="play" href="javascript:;"></a>
+<a data-res-action="addto" data-res-id="1698413" data-res-type="18" class="add" href="javascript:;"></a>
+</div>
+</li>
+
+<li>
+</li><li class="f-cb">
+<div class="txt">
+<div class="f-thide">
+<a href="/song?id=3950552" title="I Want It That Way" class="s-fc1" data-res-id="3950552" data-res-type="18" data-res-action="log" data-res-data="recommendclick|4||song-song-recommend|2080322">I Want It That Way</a>
+</div>
+<div class="f-thide s-fc4"><span title="Backstreet Boys"><a class="s-fc4" href="/artist?id=88148">Backstreet Boys</a></span></div>
+</div>
+<div class="opr f-cb">
+<a data-res-action="play" data-res-id="3950552" data-res-type="18" class="play" href="javascript:;"></a>
+<a data-res-action="addto" data-res-id="3950552" data-res-type="18" class="add" href="javascript:;"></a>
+</div>
+</li>
+
+</ul>
+<div class="m-multi">
+<h3 class="u-hd3">
+<span class="f-fl">网易云音乐多端下载</span>
+</h3>
+<ul class="bg f-cb">
+<li><a data-res-action="bilog" data-log-action="downloadapp" data-log-json="{&quot;type&quot;:&quot;iPhone&quot;,&quot;source&quot;:&quot;detail&quot;}" href="https://itunes.apple.com/cn/app/id590338362" class="ios" hidefocus="true" target="_blank">iPhone</a></li>
+<li><a data-res-action="bilog" data-log-action="downloadapp" data-log-json="{&quot;type&quot;:&quot;pc&quot;,&quot;source&quot;:&quot;detail&quot;}" href="https://music.163.com/api/pc/download/latest" class="pc" hidefocus="true" target="_blank">PC</a></li>
+<li><a data-res-action="bilog" data-log-action="downloadapp" data-log-json="{&quot;type&quot;:&quot;android&quot;,&quot;source&quot;:&quot;detail&quot;}" href="https://music.163.com/api/android/download/latest2" class="aos" hidefocus="true" target="_blank">Android</a></li>
+</ul>
+<p class="s-fc4">同步歌单，随时畅听320k好音乐</p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-ft ">
+<div class="m-ft">
+<div class="wrap f-cb">
+<div class="copy">
+<p class="link">
+<a href="//music.163.com/about" target="_blank" class="item s-fc4">关于网易</a><span class="line">|</span>
+<a href="//help.mail.163.com/service.html" target="_blank" class="item s-fc4">客户服务</a><span class="line">|</span>
+<a href="//music.163.com/html/web2/service.html" target="_blank" class="item s-fc4">服务条款</a><span class="line">|</span>
+<a href="//sitemap.163.com/" target="_blank" class="item s-fc4">网站导航</a><span class="line">|</span>
+<a id="g_feedback" href="#" class="s-fc4" onclick="nm.x.feedback();return false;" hidefocus="true">意见反馈</a>
+</p>
+<p class="right s-fc3">
+<span class="sep span">网易公司版权所有©1997-2018</span><span class="span">杭州乐读科技有限公司运营：</span><a href="http://p1.music.126.net/MkOOdJqWZdBx05Ias2W3UA==/109951163298654917.png" target="_blank" class="alink s-fc3">浙网文[2018]3506-263号</a>
+</p>
+<p class="contact s-fc3">
+<span class="sep span">违法和不良信息举报电话：0571-89853516</span>
+<span class="span">举报邮箱：</span><a class="alink" href="mailto:cloudmusicservice@163.com">cloudmusicservice@163.com</a>
+</p>
+</div>
+<ul class="enter f-fr">
+<li class="unit">
+<a class="logo logonew logo-musician f-tid" href="//music.163.com/recruit" target="_blank"></a>
+<span class="tt tt-musician"></span>
+</li>
+<li class="unit">
+<a class="logo logonew logo-topic f-tid" href="//music.163.com/topic/recruit" target="_blank"></a>
+<span class="tt tt-topic"></span>
+</li>
+<li class="unit">
+<a class="logo logonew logo-midea f-tid" href="//music.163.com/topic/selfmedia" target="_blank"></a>
+<span class="tt tt-midea"></span>
+</li>
+<li class="unit">
+<a class="logo logonew logo-reward f-tid" href="//music.163.com/web/reward" target="_blank"></a>
+<span class="tt tt-reward"></span>
+</li>
+<li class="unit">
+<a class="logo logonew logo-cash f-tid" href="//music.163.com/uservideo#/plan" target="_blank"></a>
+<span class="tt tt-cash"></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<a title="回到顶部" class="m-back" href="#" id="g_backtop" hidefocus="true" style="display: none;">回到顶部</a>
+
+<script src="//s3.music.126.net/web/s/core_949b975172dc2cdaad00fe8a4d9e1943.js?949b975172dc2cdaad00fe8a4d9e1943" type="text/javascript"></script><iframe frameborder="0" id="auto-id-kxDwoM7f7JdPcdAs" style="display: none;" src="about:blank"></iframe><script type="text/javascript" src="https://acstatic-dun.126.net/tool.min.js"></script><script src="//s3.music.126.net/web/s/pt_song_index_8b8b8ae7fdfa6b798413b01fae6e9600.js?8b8b8ae7fdfa6b798413b01fae6e9600" type="text/javascript"></script><div id="shadow-box" style="overflow-wrap: break-word; width: 564px; border-width: 1px; border-style: solid; outline: rgb(51, 51, 51) none 0px; margin: 0px -20px 0px 0px; height: 50px; padding-left: 6px; padding-top: 5px; font-size: 12px; font-family: Arial, Helvetica, sans-serif; line-height: 19px; overflow: auto;" class="auto-1538285467578"><span class="node-before"></span><span>@</span><span class="node-after"></span></div><script type="text/javascript" src="https://acstatic-dun.126.net/tool.min.js"></script>
+<script defer="defer" src="//img3.126.net/kaola/dsp1f/js/ntes-ad-cloud.min.js?v=1.0"></script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-38766552-1'],['_setLocalGifPath', '/UA-38766552-1/__utm.gif'],['_setLocalRemoteServerMode']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = '//wr.da.netease.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();//fix ipad下的一个bug
+if (navigator.userAgent.indexOf('iPad') != -1) {
+iframeHeight = Math.max(
+Math.max(document.body.scrollHeight, document.documentElement.scrollHeight),
+Math.max(document.body.offsetHeight, document.documentElement.offsetHeight),
+Math.max(document.body.clientHeight, document.documentElement.clientHeight)
+);
+top.document.body.style.height = iframeHeight + 20 + 'px';
+}</script>
+</body>
