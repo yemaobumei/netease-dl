@@ -355,7 +355,7 @@ class Crawler(object):
                 song_url, timeout=self.timeout, stream=True)
             length = int(resp.headers.get('content-length'))
             label = '歌曲 {} 已下载 '.format(song_name)
-            LOG.info(song_name)
+            # LOG.info(song_name)
             with click.progressbar(length=length, label=label) as progressbar:
                 with open(fpath, 'wb') as song_file:
                     for chunk in resp.iter_content(chunk_size=1024):
