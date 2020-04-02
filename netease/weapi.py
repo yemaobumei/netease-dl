@@ -347,7 +347,8 @@ class Crawler(object):
 
         if not os.path.exists(folder):
             os.makedirs(folder)
-        song_name=song_name.replace(' ','')#.replace('(','').replace(')','')
+        # song_name=song_name.replace(' ','')#.replace('(','').replace(')','')
+        song_name = re.sub(r"[;\-\s\!\/_,$%^*(+\"\'\]\[]+|[+——！，。？、~@#￥%……&*（）]+", "",song_name)
         fpath = os.path.join(folder, song_name+'.mp3')
 
         if not os.path.exists(fpath):

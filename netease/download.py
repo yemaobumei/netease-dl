@@ -108,7 +108,6 @@ class NetEase(object):
             # song_name = song_name.replace('/', '')
             # song_name = song_name.replace('.', '')
             # song_name = re.sub(r'[\#\-;]')
-            song_name = re.sub(r"[;\-\s\!\/_,$%^*(+\"\']+|[+——！，。？、~@#￥%……&*（）]+", "",song_name)
             self.crawler.get_song_by_url(url, song_name, folder, lyric_info)
         except RequestException as exception:
             click.echo(exception)
